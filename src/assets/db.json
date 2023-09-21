@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "title": "Post 1",
+      "body": "Some random post",
+      "id": 1
+    },
+    {
+      "title": "Post 2",
+      "body": "Some random post 222",
+      "id": 2
+    },
+    {
+      "title": "post 3",
+      "body": "test body 3333",
+      "id": 0.3294316264181887
+    },
+    {
+      "title": "post 4",
+      "body": "post 4344444",
+      "id": 0.9643855949250195
+    }
+  ]
+}
